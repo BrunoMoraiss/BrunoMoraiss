@@ -1,6 +1,6 @@
 ### Hi Im Bruno! 👋
 🔭 Estou cursando o ultimo ano de Analise e desenvolvimento de sistemas.<br>
-🌱 Atualmente estou estudando sobre Node.js, TypeScript, SQL, NoSQL, React e Vue.js.
+🌱 Atualmente estou estudando sobre Node.js, TypeScript, SQL, NoSQL, React e NestJs, Docker, IaC.
 ## Stats
 [![card](https://github-readme-stats.vercel.app/api?username=BrunoMoraiss&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoraiss&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
